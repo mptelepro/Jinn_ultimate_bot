@@ -20,7 +20,7 @@ Updates channel as at [Infinity BOTs](https://t.me/Infinity_BOTs)
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mptelepro/Jinn_ultimate_bot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mptelepro/Jinn_ultimate_bot) 
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
