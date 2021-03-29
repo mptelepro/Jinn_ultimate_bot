@@ -1,7 +1,7 @@
 __help__ = """
 *Telegram Voice Chat Music Player ❤*
-[👉 Setup Tutorial 👈](https://t.me/Infinity_BOTs/511)
-[👉 Sample Music Play 👈](https://t.me/Infinity_BOTs/535)
+[👉 Setup Tutorial 👈](https://t.me/mpazaanbot)
+[👉 Sample Music Play 👈](https://t.me/mpazaanbot)
 *Commands*
 `/play <yt link>` - play song
 `/play <reply to audio file>` - play song
