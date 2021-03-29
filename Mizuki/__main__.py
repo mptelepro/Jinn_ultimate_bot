@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = "ഹായ് , {}, എന്റെ പേര് {} 👸\n\nI'm a next gen powerful group manager bot. എന്നെ നോക്കി നടത്തുന്നത്  [@cybersecurityhacker](t.me/cybersecurityhacker) ആണ് .\n\nഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും..."
+PM_START_TEXT = "ഹായ് , {}, എന്റെ പേര് {} 👸\n\nI'm a next gen powerful group manager bot. എന്നെ നോക്കി നടത്തുന്നത്  [😄mpazaan😃](t.me/mpazaan) ആണ് .\n\nഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും..."
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
@@ -223,16 +223,16 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="👥 Support Group",
-                                url=f"https://t.me/AMXSUPPORT",
+                                url=f"https://t.me/mpazaanbot",
                             ),
                             InlineKeyboardButton(
                                 text="📌 Updates Channel",
-                                url="https://t.me/Jinnzzupdates",
+                                url="https://t.me/mpazaanbots",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Developer", url="https://t.me/cybersecurityhacker"
+                                text="Developer", url="https://t.me/mpazaan"
                             ),
                         ],
                     ]
